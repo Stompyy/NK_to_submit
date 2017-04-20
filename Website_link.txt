@@ -1,0 +1,9 @@
+Website: https://basiliskstudios.github.io/nebulaknights/
+
+Direct link to trailer: https://basiliskstudios.github.io/nebulaknights/trailer.html
+
+--------------------------------------
+
+Github repository for the website html5 code etc: https://github.com/basiliskstudios/nebulaknights/tree/master
+
+itch.io game distribution page: https://basiliskstudios.itch.io/nebula-knights
