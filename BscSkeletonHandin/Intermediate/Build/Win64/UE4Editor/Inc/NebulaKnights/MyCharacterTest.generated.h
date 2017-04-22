@@ -11,9 +11,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define NEBULAKNIGHTS_MyCharacterTest_generated_h
 
-#define Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_RPC_WRAPPERS
-#define Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_RPC_WRAPPERS_NO_PURE_DECLS
-#define Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_INCLASS_NO_PURE_DECLS \
+#define BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_RPC_WRAPPERS
+#define BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_RPC_WRAPPERS_NO_PURE_DECLS
+#define BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_INCLASS_NO_PURE_DECLS \
 	private: \
 	static void StaticRegisterNativesAMyCharacterTest(); \
 	friend NEBULAKNIGHTS_API class UClass* Z_Construct_UClass_AMyCharacterTest(); \
@@ -24,7 +24,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_INCLASS \
+#define BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_INCLASS \
 	private: \
 	static void StaticRegisterNativesAMyCharacterTest(); \
 	friend NEBULAKNIGHTS_API class UClass* Z_Construct_UClass_AMyCharacterTest(); \
@@ -35,7 +35,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_STANDARD_CONSTRUCTORS \
+#define BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AMyCharacterTest(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AMyCharacterTest) \
@@ -48,7 +48,7 @@ private: \
 public:
 
 
-#define Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_ENHANCED_CONSTRUCTORS \
+#define BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AMyCharacterTest(AMyCharacterTest&&); \
@@ -59,32 +59,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMyCharacterTest); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AMyCharacterTest)
 
 
-#define Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_PRIVATE_PROPERTY_OFFSET
-#define Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_8_PROLOG
-#define Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_GENERATED_BODY_LEGACY \
+#define BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_PRIVATE_PROPERTY_OFFSET
+#define BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_8_PROLOG
+#define BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_PRIVATE_PROPERTY_OFFSET \
-	Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_RPC_WRAPPERS \
-	Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_INCLASS \
-	Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_STANDARD_CONSTRUCTORS \
+	BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_PRIVATE_PROPERTY_OFFSET \
+	BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_RPC_WRAPPERS \
+	BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_INCLASS \
+	BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_GENERATED_BODY \
+#define BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_PRIVATE_PROPERTY_OFFSET \
-	Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
-	Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_INCLASS_NO_PURE_DECLS \
-	Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h_11_ENHANCED_CONSTRUCTORS \
+	BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_PRIVATE_PROPERTY_OFFSET \
+	BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
+	BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_INCLASS_NO_PURE_DECLS \
+	BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h_11_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Nebular_Knights_current_Source_NebulaKnights_MyCharacterTest_h
+#define CURRENT_FILE_ID BscSkeletonHandin_Source_NebulaKnights_MyCharacterTest_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

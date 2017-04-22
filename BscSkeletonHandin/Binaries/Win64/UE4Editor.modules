@@ -1,9 +1,9 @@
 {
 	"Changelist" : 3249277,
 	"CompatibleChangelist" : 3195953,
-	"BuildId" : "8f77cbe0-7845-4daf-8429-959356ee4562",
+	"BuildId" : "",
 	"Modules" : 
 	{
-		"NebulaKnights" : "UE4Editor-NebulaKnights-4320.dll"
+		"NebulaKnights" : "UE4Editor-NebulaKnights.dll"
 	}
 }

@@ -2,7 +2,7 @@
 	"TargetName" : "NebulaKnightsEditor",
 	"Platform" : "Win64",
 	"Configuration" : "Development",
-	"BuildId" : "8f77cbe0-7845-4daf-8429-959356ee4562",
+	"BuildId" : "",
 	"Version" : 
 	{
 		"MajorVersion" : 4,
@@ -16,15 +16,15 @@
 	"BuildProducts" :
 	[
 		{
-			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-NebulaKnights-4320.dll",
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-NebulaKnights.dll",
 			"Type" : "DynamicLibrary"
 		},
 		{
-			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-NebulaKnights-4320.pdb",
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-NebulaKnights.pdb",
 			"Type" : "SymbolFile"
 		},
 		{
-			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-NebulaKnights-4320.lib",
+			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-NebulaKnights.lib",
 			"Type" : "ImportLibrary"
 		}
 	],
