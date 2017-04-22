@@ -1,0 +1,17 @@
+[URL]
+[/Script/EngineSettings.GameMapsSettings]
+EditorStartupMap=/Game/Maps/PrototypeArena.PrototypeArena
+GameDefaultMap=/Game/Maps/PrototypeArena.PrototypeArena
+GlobalDefaultGameMode=/Game/Blueprints/NebulaKnights.NebulaKnights_C
+bUseSplitscreen=False
+
+[/Script/HardwareTargeting.HardwareTargetingSettings]
+TargetedHardwareClass=Desktop
+AppliedTargetedHardwareClass=Desktop
+DefaultGraphicsPerformance=Maximum
+AppliedDefaultGraphicsPerformance=Maximum
+
+[/Script/Engine.RendererSettings]
+r.ClearCoatNormal=False
+r.NormalMapsForStaticLighting=True
+
