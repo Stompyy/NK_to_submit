@@ -1,0 +1,1 @@
+Unreal project files without the maps or art assets to fit the size limit of less than 1Gb.

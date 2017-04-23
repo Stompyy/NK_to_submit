@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\NebulaKnights.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{3B341A09-DFC2-4701-9817-A06320AAD2C8}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\NebulaKnights.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\NebulaKnightsEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{95FE89DE-3907-41D6-A6F6-8DADB6D4D3E8}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\NebulaKnights">
+			<UniqueIdentifier>{413355C7-9E50-461E-BE3A-B8FCCD175D8D}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\NebulaKnights\MyCharacterTest.cpp">
+			<Filter>Source\NebulaKnights</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\NebulaKnights\MyCharacterTest.h">
+			<Filter>Source\NebulaKnights</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\NebulaKnights\NebulaKnights.Build.cs">
+			<Filter>Source\NebulaKnights</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\NebulaKnights\NebulaKnights.cpp">
+			<Filter>Source\NebulaKnights</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\NebulaKnights\NebulaKnights.h">
+			<Filter>Source\NebulaKnights</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\NebulaKnights\NebulaKnightsGameModeBase.cpp">
+			<Filter>Source\NebulaKnights</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\NebulaKnights\NebulaKnightsGameModeBase.h">
+			<Filter>Source\NebulaKnights</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
